@@ -1,0 +1,25 @@
+form.new_user {
+    width: 150px;
+    margin: 5%;
+    display: inline-block;
+}
+
+input {
+    padding: 3%;
+}
+
+input#description {
+    padding-bottom: 35%;
+}
+
+div.newcontent {
+    display: inline-block;
+    vertical-align: top;
+    /*height: 200px;*/
+    width: 800px;
+    /*background-color: black;*/
+}
+
+p:hover {
+    cursor: pointer;
+}
